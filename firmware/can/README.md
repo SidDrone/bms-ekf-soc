@@ -1,0 +1,3 @@
+# firmware/can
+
+Telemetry frames.
